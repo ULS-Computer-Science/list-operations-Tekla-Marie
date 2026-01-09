@@ -66,7 +66,6 @@ hats = ['Fedora', 'Sombrero', 'straw hat']
 backuphats = hats.copy()
 
 #-------- random.choice() ------
-import random
 
 kids = ['Albinoe', 'Orchid', 'Nembrotha', 'Equinox', 'Borealis']
 most_evil = random.choice(kids)
